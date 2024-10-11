@@ -12,7 +12,7 @@ export default function BackpackPage() {
       <div className="prose prose-invert">
         <h1>Backpacks</h1>
         <p>
-          There are currently {Backpacks.definitions.length} backpacks in the
+          There are currently {Backpacks.definitions.length} bags in the
           game.
         </p>
         <p>
